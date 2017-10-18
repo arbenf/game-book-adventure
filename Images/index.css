@@ -1,0 +1,19 @@
+body{
+	background-image: url("http://bgfons.com/upload/iron_texture47.jpg");
+}
+div p{
+	color: white;
+}
+nav a{
+	color:white;
+}
+div{
+	text-align:center;
+}
+img{
+	margin:auto;
+	display:block;
+}
+nav{
+	text-align:center;
+}
